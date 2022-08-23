@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter Development
 - 💞️ I’m looking to collaborate on Flutter Applications
 - 📫 How to reach me Facebook: https://www.facebook.com/sardhara.jay.7 ,
--                     Whatsapp: +91 7041648493 
+- 🟢 Whatsapp: +91 7041648493 
 
 <!---
 jaysardhara34/jaysardhara34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
